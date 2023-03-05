@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>branch</title>
+</head>
+<center>
+<h1>CSE</h1>
+<h1>CST</h1>
+<h1>CSE(AI)</h1>
+<h1>AIVSML</h1>
+<h1>ECE</h1>
+<h1>ECT</h1>
+<h1>EEE</h1>
+<h1>CIVIL</h1>
+<h1>MECH<h1>
+</center>
+</body>
+</html>

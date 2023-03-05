@@ -1,0 +1,21 @@
+h1{ 
+backgroung-color:pink; 
+} 
+#d1{ 
+font-family:sarif; 
+text-align:center; 
+} 
+.c1{ 
+color:red; 
+} 
+h5,h6{ 
+text-decoration-line:line through; 
+}
+*{ 
+font-family:verdana; 
+} 
+body{ 
+background-image:url("https://images.pexels.com/photos/1632790/pexels-photo-1632790.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); 
+background-repeat:no-repeat; 
+background-size:100% 100%; 
+} 

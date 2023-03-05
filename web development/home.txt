@@ -1,0 +1,13 @@
+<html>
+<body>
+<center>
+<img src="C:\Users\DELL\Desktop\wt\image" alt="sri vasavi engineering college" 
+width="1000px"
+height="500px">
+<br>
+<br>
+<a href="http://srivasaviengg.ac.in/" target="_blank" >Click
+here</a>
+</center>
+</body>
+</html>

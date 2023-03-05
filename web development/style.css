@@ -1,0 +1,22 @@
+body
+{
+		font-family: Arial;
+ 
+}
+h1
+{
+	color: #F72DCF;
+		text-align: “center”;
+}
+a:link
+{
+		color: red;
+}
+a:visited
+{
+		color: #EE0A79;
+}
+a:hover
+{
+		color: #07BBBE;
+} 

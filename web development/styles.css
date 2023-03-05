@@ -1,0 +1,24 @@
+body
+{
+		font-family: Arial;
+background-image:url("C:\Users\DELL\Desktop\JAHNAVI MANDAPATI/tree.jpg"); 
+background-repeat:no-repeat; 
+background-size:100% 100%; 
+}
+h1
+{
+	color: #F72DCF;
+		text-align: “center”;
+}
+a:link
+{
+		color: red;
+}
+a:visited
+{
+		color: #EE0A79;
+}
+a:hover
+{
+		color: #07BBBE;
+} 

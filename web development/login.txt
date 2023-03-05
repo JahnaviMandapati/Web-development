@@ -1,0 +1,18 @@
+<html>
+<body align="center">
+<form name="form1" method="post">
+<br>
+<br>
+User Name:<input type="text" size="20"><br><br>
+Password :<input type="password" size="20"><br><br>
+<input type="submit" value="Submit">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="reset" value="cancel">
+<br>
+<br>
+<a href="">Forget Password</a>
+</form>
+</body>
+</html>

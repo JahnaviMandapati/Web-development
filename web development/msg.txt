@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1><marquee>WELCOME TO SRI VASAVI ENGINEERING  AND PHARMACY College</marquee>
+</h1>
+</body>
+</html

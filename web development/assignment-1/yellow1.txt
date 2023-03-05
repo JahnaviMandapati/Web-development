@@ -1,0 +1,15 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+</h1>The following are the Fruits Which are in the colour yellow</h1>
+<ul> 
+<li>MANGO</li> 
+<li>LEMON</li> 
+<li>JACK FRUIT</li>
+<li>BANANA</li>
+<li>EGG FRUIT</li>
+</ul> 
+</body>
+</html>

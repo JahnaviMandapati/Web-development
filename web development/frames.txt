@@ -1,0 +1,19 @@
+<html>
+<frameset rows="15%,5%, *">
+<frameset cols="17%, *" frameborder="no" scrolling="auto">
+<frame src="logo.html" name="a" noresize="norsize" >
+<frame src="msg.html" name="b" noresize="norsize" >
+</frameset>
+<frameset cols="20%,20%,20%, *" frameborder="yes" >
+<frame name="a1" src="Home3.html" noresize="noresize"scrolling="no"></frame>
+<frame name="a2" src= "login1.html" noresize="noresize"scrolling="no"></frame>
+<frame name="a3" src="registration1.html" noresize="noresize"scrolling="no"></frame>
+<frame name="a4" src="catlogue1.html" noresize="noresize"scrolling="no"></frame>
+</frameset>
+<frameset cols="20%, *" frameborder="yes">
+<frame src="branch.html" target="e"></frame>
+<frame src= "home.html" name="e"></frame>
+</frameset>
+</frameset>
+</frameset>
+</html>

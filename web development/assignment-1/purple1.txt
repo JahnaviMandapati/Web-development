@@ -1,0 +1,15 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+</h1>The following are the Fruits Which are in the colour purple</h1>
+<ul> 
+<li>BLACK BERRY</li> 
+<li>BLUE BERRY</li> 
+<li>FIG</li>
+<li>BLACK CURRENT</li>
+<li>BRIJAL</li>
+</ul>
+</body>
+</html> 

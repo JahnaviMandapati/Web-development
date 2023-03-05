@@ -1,0 +1,15 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+</h1>The following are the Fruits Which are in the colour green</h1>
+<ul> 
+<li>AVOCADO</li> 
+<li>GRREN APPLES</li> 
+<li>LIMES</li>
+<li>BROCCOLI</li>
+<li>CUCUMBER</li>
+</ul>
+</body>
+</html>
